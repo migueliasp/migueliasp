@@ -42,7 +42,7 @@
 I value authenticity, iterative learning, and building systems that last.  
 If you're into pragmatic architecture, legacy rescue missions, or just want to geek out over Blazor vs React — let's talk!
 
-📫 [LinkedIn](https://www.linkedin.com/in/miguel-elias) • 🧠 [Copilot-powered projects coming soon…]
+📫 [LinkedIn](https://www.linkedin.com/in/mikeyeli) • 🧠 [Copilot-powered projects coming soon…]
 
 ---
 
